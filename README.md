@@ -17,3 +17,7 @@
 >   - → I'm currently working actively on BSoC'26 (updated 15 nov 2026)
 > 
 > *Thanks for your patience and Reading !*
+
+<img align="left" width="390" alt="bunchofbrew" src="https://raw.githubusercontent.com/Bunchofbrew/Bunchofbrew/b6851f99813bd0cc2a5032d3ef87e708d8c9fd42/ADIII.svg">
+
+
