@@ -14,7 +14,6 @@
 > - [x] [`Hɪsᴛᴏʀɪᴄᴀʟ Sɪᴍᴜʟᴀᴛɪᴏɴ`](https://en.wikipedia.org/wiki/Historical_simulation_(finance)) VaR / CDF
 > - [x] [`Bʟᴀᴄᴋ–Sᴄʜᴏʟᴇs Mᴏᴅᴇʟ`](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)  derivative investment 
 > - [x] [`Hᴇᴅɢᴇ Fᴜɴᴅs`](https://en.wikipedia.org/wiki/Hedge_fund)  trading & risk management 
->
 >   - → I'm currently working actively on BSoC'26 (updated 15 nov 2026)
 > 
 > *Thanks for your patience and Reading !*
