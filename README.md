@@ -20,4 +20,4 @@
 
 <img align="left" width="390" alt="bunchofbrew" src="https://raw.githubusercontent.com/Bunchofbrew/Bunchofbrew/b6851f99813bd0cc2a5032d3ef87e708d8c9fd42/ADIII.svg">
 <img align="left" width="390" alt="bunchofbrew" src="https://raw.githubusercontent.com/Bunchofbrew/Bunchofbrew/cd184fb06af3aaeb75734c3f6b51cee479c0127b/Brewcontributions.svg">
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
+<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">
