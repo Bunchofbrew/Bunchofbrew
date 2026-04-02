@@ -128,7 +128,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 2 users
+                            Following 4 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3754,7 +3754,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XTXMarkets/ternfs</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An exabyte-scale, multi-region distributed file system</div>
@@ -3801,7 +3801,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TimoDiehm/imc-prosperity-3</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Preparing for Prosperity 4? This repo won’t help you win, but it will help you understand why you didn’t. Clone it now and start failing faster!</div>
@@ -3816,7 +3816,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        405
+                                        408
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3848,7 +3848,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>optiver/timestamp9</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nanosecond precision timestamp type for Postgres</div>
@@ -3901,7 +3901,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>overleaf/overleaf</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web-based collaborative LaTeX editor</div>
@@ -3954,7 +3954,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jumptrading/influx-spout</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">influx-spout: A metric aware router for InfluxDB</div>
@@ -4007,7 +4007,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rubrikinc/wachy</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A UI for eBPF-based performance debugging</div>
@@ -4060,7 +4060,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deshaw/pyflyby</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of productivity tools for Python. Learn more at https://www.deshaw.com/library/desco-quansight-improving-jupyter-efficiency</div>
@@ -4113,7 +4113,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hudson-trading/corral</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight structured concurrency for C++20</div>
@@ -4344,10 +4344,12 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    2 followed
+                    4 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBAwYC/8QAMRAAAQMDAgQEAgsAAAAAAAAAAQIDEQAEBQYhEhMxUQcUIqEWYSMyQVJicYGRsbLw/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUAAf/EABwRAAIDAQEBAQAAAAAAAAAAAAECAAMEERJBIf/aAAwDAQACEQMRAD8AbiXZ6g/nUPOhpsuOLDbfdwwBQW01S0zbDzw43x1LUQf0JmstrW7stTXdgy/btuW6W3PorrjiYkH09DIAn5munUnnomTI5byZZrTVNw1mfI4295LbLaHFKbAPMJ3G++0fzRLF6tdftQbi2lxMJKvvekGfelpksS1gMyuzseBy3LIdSgqJLcgbEx39qJWOTSi2QhbC1rTsVIGx7e0VOfTYXJUymuVAgVhO9Y5z4XxzD/OeefdPLS0VAkmNzMdKt8NHbvUTNpk8ip5rmXxZb5MfVCJJMx/hS68Zrp06jx9uSOUi34wPmSZ/qK2vhtfv2+i8UpohJbN0tO3Q0vJQtidb7DabDXZxfkC5DUmKOr8wlaHW2FXDgZdmQRxmJ7bRRtYJ4VJcMKSD6Gwsfv8AbShuVFSHlq3Vxdacumn1u6exqnCCry6BMfhFH1ULWfyKx3l+hp//2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAITEGEmFBUXETFCIVcoGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAwEBAQEAAAAAAAAAAAABAgADIREEEyL/2gAMAwEAAhEDEQA/AKO4UM9Z9mJKOdmmZElkkY5iBJzknkeuMnnVXbOm+lYaJoDZaSZd1LTRiQnOTyfJzjYahK7qepuVPNDQRNT1bMJIzKwdEIGMYByQf499+Nat1w6rlqniilo+8RO6oUJ2VSRnHbglu0YPvn4h0n9S2mrOmCdZ9G2qw379cttMi0ElO8M0JAIiYEEOvrwGB5P9BHcLXR98LyXOS3B4lZIIgCoXgYwduOPGmnUb3W8WgxXeuiWhDhmenB+oDuAo4wcnBBycZ49eSdT0F2hujC1RGqpioIkIwfgjO3A0ZRXxoD1qG2XEBrnkUwQsSMElUIz498/5p7bZpjIZ5LpPRsx7SVALZGAVJOxG2x5GqFZDS2H75FR5mkKAOuVXBTcefyO51HVk08d3kSOolRXdi3aQPOk0UP8AMWMe9h1XaVhV1ScB4YmkmX6hkdwDgE8fJwefffbjQOJF2ZEB86d2WrkSvkDBZFdlpyHyQAWQd37vzbnxtomtgiiqpEWNSAfXJ9NZ6fC4AtVsMU1pLkT/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgE/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDBBEhAAUxBhJBUWEHEyJxgZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACAxESIf/aAAwDAQACEQMRAD8AUclG0MbSMpIUDAF73xYfJJA13bp07vW17WlbOkSll7jGVP4ebE+/edH0HTySISR+RI7cYSxGSP2Bqf1CnqY4aagqKuKRp3cCRUAKgAWW3HJOeeNS6XR+S3DEuKxUUFRHu1E8gUJLFh09X8j4wdVNVTgTNm38aOumtjjWPcpuztDMq91gBYA4HzfVDudKsVWygeNLV6Se1fLyaGgpXkcQhCxK47R78aHuudlnqpY4qeL7skLnv7Tw2MW4vfz559aafSdPGu2QyBbySBmZjybXsP1jU962ynavpZVDxy1JKysjG7WAI58/PNsetY0z6RcNPKxYbL0lV0G3CmmdGq5laZ473+2DjFv6+Tc/oI37aJotzlR6fuYebDWiqqKOBJTEiqcLe2SOMnSc6pJfep2bnjHxj/NIV8kFfT2f/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                     </section>
@@ -4457,7 +4459,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2026, 01:09:12 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2026, 03:25:45 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
