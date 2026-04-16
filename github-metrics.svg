@@ -3770,7 +3770,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XTXMarkets/ternfs</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An exabyte-scale, multi-region distributed file system</div>
@@ -3817,7 +3817,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TimoDiehm/imc-prosperity-3</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Preparing for Prosperity 4? This repo won’t help you win, but it will help you understand why you didn’t. Clone it now and start failing faster!</div>
@@ -3864,7 +3864,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>optiver/timestamp9</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nanosecond precision timestamp type for Postgres</div>
@@ -3917,7 +3917,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>overleaf/overleaf</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web-based collaborative LaTeX editor</div>
@@ -3970,7 +3970,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jumptrading/influx-spout</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">influx-spout: A metric aware router for InfluxDB</div>
@@ -4023,7 +4023,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rubrikinc/wachy</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A UI for eBPF-based performance debugging</div>
@@ -4076,7 +4076,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deshaw/pyflyby</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of productivity tools for Python. Learn more at https://www.deshaw.com/library/desco-quansight-improving-jupyter-efficiency</div>
@@ -4129,7 +4129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hudson-trading/corral</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight structured concurrency for C++20</div>
@@ -4473,7 +4473,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2026, 00:45:58 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2026, 02:19:38 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
